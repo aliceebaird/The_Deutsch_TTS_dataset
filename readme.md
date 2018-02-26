@@ -2,7 +2,19 @@
 
 
 
+
+
+
+
 A selection of synthetic voices (+2 human) speaking the following 3 German sentences: 
+
+
+
+
+
+Please contact us for the data! 
+
+
 
 
 
