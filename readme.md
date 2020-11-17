@@ -1,22 +1,8 @@
-# TTS dataset 
+# A dataset of TTS Samples 
 
+Many of the voices have been provided by Dr. Felix Burkhardt's from his '[German Text-to-Speech](http://ttssamples.syntheticspeech.de/)' Library. 
 
-
-
-
-
-
-A selection of synthetic voices (+2 human) speaking the following 3 German sentences: 
-
-
-
-
-
-Please contact us for the data! 
-
-
-
-
+A selection of synthetic voices (+2 humans) speaking the following 3 German sentences: 
 
 **S1:**  *An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht. Dabei war eigentlich immer sehr schönes Wetter gewesen.* 
 
@@ -24,19 +10,7 @@ Please contact us for the data!
 
 **S3:** *Die Manpowerdiskussion wird gecancelt, du kannst das File vom Server downloaden.* 
 
-
-
-Many of the voices have been provided by Dr. Felix Burkhardt's from his '[German Text-to-Speech](http://ttssamples.syntheticspeech.de/)' Library. 
-
-
-
 Additional Human voices were captured with the full consent of the provider. 
-
-
-
-
-
-
 
 The data set has been balanced as follows. 
 
@@ -90,3 +64,6 @@ The data set has been balanced as follows.
 | **S1** | 2                      | 4               |
 | **S2** | 2                      | 4               |
 | **S3** | 2                      | 4               |
+
+
+
